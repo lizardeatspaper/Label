@@ -1,8 +1,8 @@
 # Label
 
-This custom element just shows its value with no option to edit it.
+This custom element just shows its value with no option to edit it. For example it can show some external ID:
 
-
+![screenshot](https://amend.cz/label.png)
 
 # Deployment
 
